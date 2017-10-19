@@ -36,8 +36,8 @@ continue updating your code until you want to commit again
 
 9. $ git status
 
-[this will tell you modified, deleted and untracked files since the last commit]
-[to stage the changes you want added run 10 or 11
+this will tell you modified, deleted and untracked files since the last commit
+to stage the changes you want added run 10 or 11
 
 10. $ git add <filenames>
 11. $ git add --all
@@ -48,4 +48,4 @@ because I use .gitignore files to exclude the files I don't want tracking I tend
 12. git log
 13. git status
 
-[repeat ad infinitum]
+repeat ad infinitum
