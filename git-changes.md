@@ -45,6 +45,6 @@ git reset HEAD <FILE>
 ```
 or to unstage all changes (tracked and untracked files)
 ```
-git reset HEAD .
+git reset HEAD
 ```
 
